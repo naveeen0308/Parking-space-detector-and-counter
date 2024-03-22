@@ -1,4 +1,5 @@
 OVERVIEW:
+
 This project presents the development and implementation of a parking space detection and counter system employing computer vision techniques. The primary objective of this project is to create an automated solution for monitoring parking spaces in real-time, providing crucial information about space availability to both parking administrators and users. The system utilizes image classification models to distinguish between occupied and vacant parking spots, enabling efficient management of parking resources. Through the analysis of video data cap- tured by a camera installed in the parking area, the system detects changes in parking space occupancy and updates the count dynamically.  This readme file outlines the methodology adopted for the project, encompassing preprocessing steps, model training procedures, and the deployment of the detection algorithm. Experimental results showcase the system’s accuracy and reliability in accurately identifying parking space status under various environmental condi- tions.
 
 TECH STACK INVOLVED:
@@ -28,4 +29,5 @@ STEP BY STEP PROCESS:
 8.	Deployment and Maintenance: Deploy the finalized system in the target environment, en- suring compatibility and scalability.
 
 FINAL OUTPUT:
+
 ![image](https://github.com/naveeen0308/Parking-space-detector-and-counter/assets/142158386/0ffaec7c-e9fb-45ec-a631-55ad53dd6ddc)
